@@ -1,0 +1,14 @@
+/* Start owner name header*/
+.owner-name h2 {
+    font-family: emoji;
+    padding-left: 23px;
+}
+/* End owner name header */
+/* Start skills section */
+.skills div {
+    font-weight: bold;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-left: 20px;
+}
+/* End skills section */
